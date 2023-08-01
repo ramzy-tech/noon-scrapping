@@ -1,0 +1,1002 @@
+[
+  {
+    "brand": "MSI",
+    "name": "Modern 14 B11Mou Laptop With 14-Inch Display Core I3-1115G4 Processor 4Gb Ram 256Gb Ssd - Intel Uhd Graphics English/Arabic Grey ",
+    "price": 12299
+  },
+  {
+    "brand": "Apple",
+    "name": "MacBook Pro 13-Inch M2 Chip With 8-Core CPU And 10-Core GPU, 256GB SSD/Integrated Graphics/Middle East Version English/Arabic Space Grey ",
+    "price": 50999
+  },
+  {
+    "brand": "MSI",
+    "name": "Modern 14 B11M Laptop With 14-Inch Display Core I5-1155G7 8Gb Ram 512Gb - Intel Uhd Graphics English/Arabic Grey ",
+    "price": 20599
+  },
+  {
+    "brand": "ASUS",
+    "name": "E410MA-BV001W Laptop With 14-Inch Full HD Display,Intel Celeron N4020 Processor 1.1 GHz/4GB RAM/256GB SSD/Intel UHD Graphics 600/Windows 10 English/Arabic Peacock Blue ",
+    "price": 7999
+  },
+  {
+    "brand": "Acer",
+    "name": "Aspire 7 Laptop With 15.6-inch Display Core i7-1260P Processor 16gb Ram 512gb Nvidia GeForce RTX 3050 Graphics English/Arabic Black ",
+    "price": 24999
+  },
+  {
+    "brand": "Lenovo",
+    "name": "V15 Laptop With 15.6-inch Display Intel Core i3-10110U Processor 4GB Ram 256GB SSD 4 GB Integrated Intel UHD Graphics English/Arabic Iron Grey ",
+    "price": 8999
+  },
+  {
+    "brand": "MSI",
+    "name": "Laptop Gf63 Thin 10Sc With 15.6 Inch Fhd Display, Intel Core I7-10750H Processor / 8Gb Ram / 1Tb Hdd / 256Gb Ssd/Nvidia Geforce Gtx 1650 4Gb / Dos English/Arabic Black ",
+    "price": 27999
+  },
+  {
+    "brand": "Apple",
+    "name": "Macbook Air MGN63 AB/A 13-Inch Display, M1 Chip With 8-Core Processor And 7-Core Graphics/8GB RAM/256GB SSD/Mac OS English/Arabic Grey ",
+    "price": 42999
+  },
+  {
+    "brand": "MSI",
+    "name": "Gf63 Thin 11Uc Laptop With 15.6-Inch Display Core I7-11800H Processor 16Gb Ram 1Tb + 256Gb - Nvidia Geforce Rtx Series 3050 4Gb Windows 11 English/Arabic Black ",
+    "price": 37999
+  },
+  {
+    "brand": "MSI",
+    "name": "Modern 14 B5M Laptop With 14-Inch Display, Ryzen 5-5500U Processer/8GB RAM/256GB SSD/ AMD Radeon /DOS English Gray English Carbon Gray ",
+    "price": 17999
+  },
+  {
+    "brand": "DELL",
+    "name": "G15 5511 Gaming Laptop With 15.6-inch FHD Display/Intel Core i7-11800H Processor/16GB DDR4 RAM/512GB SSD/6GB NVIDIA GeForce RTX 3060 Graphics Card/DOS/ English Grey ",
+    "price": 45999
+  },
+  {
+    "brand": "ASUS",
+    "name": "TUF A15 FA507RR Gaming Laptop With 15.6-Inch WQHD Display, AMD Ryzen 7-6800H Processer/16GB RAM/1TB SSD/8GB NVidia GeForce RTX 3070 Graphics Card/Windows 10 Home English Grey ",
+    "price": 52500
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Laptop V14 ADA 14 Inch HD, AMD A4 3020E/4 GB RAM DDR4/1 TB HHD Integrated Radeon Graphics Arabic Iron Grey ",
+    "price": 7649
+  },
+  {
+    "brand": "MSI",
+    "name": "Modern 14 B5M- Laptop With 14-Inch Display, Ryzen 7 5700U Processor / 8Gb Ram / 512Gb Ssd / Amd Radeon Graphics / Dos/ Arabic Carbon Gray ",
+    "price": 21999
+  },
+  {
+    "brand": "MSI",
+    "name": "GF63 Thin 10UC Laptop With 15.6 Inch Core i5 10500 H Ram 8 GB 1.256 Terabyte SSD 4 GB Nvidia GeForce RTX 3050 English/Arabic Black ",
+    "price": 30499
+  },
+  {
+    "brand": "ASUS",
+    "name": "Asus Vivobook X515Ea-Bq003W - Intel Core I3-1115G4 - 4Gb - 256Gb Ssd - Intel Iris Xᵉ Graphics - 15.6\" Hd - Win11 English/Arabic slate grey ",
+    "price": 12499
+  },
+  {
+    "brand": "DELL",
+    "name": "G15 5525 Latest 2022 Gaming Laptop, AMD Ryzen 7-6800H, 15.6 Inch FHD, 512GB SSD, 16 GB RAM, NVIDIA GeForce RTX 3050 4GB Graphics, Win 11 Home English/Arabic gray ",
+    "price": 40999
+  },
+  {
+    "brand": "DELL",
+    "name": "5520-G15 Gaming Laptop With 15.6 Inch Intel Core i7-12700H/16GB RAM/512 GB SSD/6 GB Nvidia GeForce RTX 3060 Series/Ubuntu English Black/Dark Shadow Grey ",
+    "price": 49999
+  },
+  {
+    "brand": "DELL",
+    "name": "G15 5511 Gaming Laptop With 15.6-Inch Fhd Display, Core I5-11260H Processer/16Gb Ram/512Gb Ssd/4Gb Nvidia Rtx 3050 Graphics Card/Ubuntu English Dark Shadow Grey ",
+    "price": 34999
+  },
+  {
+    "brand": "ASUS",
+    "name": "X1502ZA-EJ007W Laptop With 15.6 Inch Processor Core i7-1255U 8GB RAM/ 512GB SSD/ Intel HD Graphics Windows 11 English/Arabic Quiet Blue ",
+    "price": 24999
+  },
+  {
+    "brand": "HP",
+    "name": "HP 250 G8 with 15.6 Inch HD/Intel Core i5-1135G7/8GB RAM/256GB SSD/DOS (Without Windows)/Intel Iris Xe Graphics/ English/Arabic Astroid silver ",
+    "price": 19400
+  },
+  {
+    "brand": "Lenovo",
+    "name": "ThinkBook 14 G2 Netbooks With 14-Inch Display Intel Core i5 Processor/8GB RAM/256GB SSD/Intel Iris Xe Graphics English/Arabic Grey ",
+    "price": 22549
+  },
+  {
+    "brand": "ASUS",
+    "name": "Vivobook Pro 15 D3500QC-OLED007W  Laptop With 15.6-inch Display Ryzen 7 5800H Processor 16GB Ram 512GB SSD Nvidia GeForce RTX3050 Graphics English/Arabic Quiet Blue ",
+    "price": 39999
+  },
+  {
+    "brand": "Acer",
+    "name": "Aspire 3 A315 Laptop With 15.6-Inch Display, Core i5-1135G7 Processor/8GB RAM/1TB HDD + 256GB SSD/2GB NVIDIA GeForce MX350 Graphics Card/Free Dos (No Windows) English Silver ",
+    "price": 30999
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Laptop V15, 15.6 Inch ,Intel Corei3-1005G1 4 GB RAM 1 TB HDD Intel UHD Graphics Dos English/Arabic Iron Grey ",
+    "price": 13800
+  },
+  {
+    "brand": "Acer",
+    "name": "Aspire 5 Laptop With 15.6-inch Display Ryzen 7 5700U Processor 16gb Ram 1024tb AMD Radeon RX 640 Graphics English/Arabic Silver ",
+    "price": 20999
+  },
+  {
+    "brand": "Lenovo",
+    "name": "V15 Laptop With 15.6-inch Display Intel Core i3-10110U Processor 4GB Ram 1TB HDD 4 GB Integrated Intel UHD Graphics English/Arabic Iron Grey ",
+    "price": 8999
+  },
+  {
+    "brand": "Apple",
+    "name": "MacBook Air With 13.6-Inch FHD (1920x1080) Display, Apple M2 chip with 8-Core CPU And 8-Core GPU, 256GB SSD English/Arabic Starlight ",
+    "price": 53999
+  },
+  {
+    "brand": "ASUS",
+    "name": "Asus ZenBook 14 Flip OLED 14'' 2.8K Ryzen7/5800H/16GB/512GB SSD/W11/BLACK English Black ",
+    "price": 36333
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IdeaPad Gaming 3 Laptop With 16-inch Display Core i7-12650H Processor 16gb RAM 512 gigabyte Nvidia GeForce RTX 3060 Graphics English/Arabic Onyx Grey ",
+    "price": 49999
+  },
+  {
+    "brand": "Apple",
+    "name": "MacBook Air 13.6-Inch Display, Apple M2 chip with 8-Core CPU And 8-Core GPU, 256GB SSD English/Arabic Silver ",
+    "price": 50999
+  },
+  {
+    "brand": "Apple",
+    "name": "MacBook Air 13.6-Inch Display, Apple M2 chip with 8-Core CPU And 8-Core GPU, 256GB SSD English Midnight ",
+    "price": 51950
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IdeaPad 5 15ITL05 Laptop With 15.6-Inch Full HD Display, Intel 11th Gen Core i7-1165G7 2.8GHz Processor/16GB RAM/512GB SSD/ NVIDIA GeForce MX450 Graphics/ /International Version English Graphite Grey ",
+    "price": 27649
+  },
+  {
+    "brand": "DELL",
+    "name": "5520-G15 Gaming Laptop With 15.6 Inch Intel Core i7-12700H/16 GB RAM/512GB SSD/4 GB Nvidia GeForce RTX 3050 Series Ubuntu English Black ",
+    "price": 40999
+  },
+  {
+    "brand": "HP",
+    "name": "Hp Fq5043Ne I7-1255U-8-512-W11 Laptop With 15.6 Inch Core I7 8 Gb Ram 512 Gb Ssd Intel Xe Graphics English/Arabic Natural Silver ",
+    "price": 25028
+  },
+  {
+    "brand": "MSI",
+    "name": "GF63 Thin 10UC Laptop With 15.6 Inch Core i7 10750 H Ram 16 GB 1.256 Terabyte SSD 4 GB Nvidia GeForce RTX 3050 English/Arabic Black ",
+    "price": 35999
+  },
+  {
+    "brand": "HP",
+    "name": "Hppaveq3007 R5-5625U-8-512-W1 Laptop With 15.6 Inch Ryzen 5 8 Gb Ram 512 Gb Ssd English/Arabic Natural Silver ",
+    "price": 17715
+  },
+  {
+    "brand": "ASUS",
+    "name": "Vivobook 16X M1603QA-MB192W Slim Laptop With 16-Inch Display, AMD Ryzen 5 5600H Processor/8GB RAM/512GB SSD/Integrated Graphics/Windows 11 Home English/Arabic Transparent Sliver ",
+    "price": 19999
+  },
+  {
+    "brand": "Acer",
+    "name": "Aspire 3 Laptop With 15.6-inch Display Core i7-1165G7 Processor 12gb Ram 1tb+256gb SSD Nvidia GeForce MX350 Graphics English/Arabic Silver ",
+    "price": 20999
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IdeaPad 3 14ITL05 Laptop With 14-Inch FHD Display, Core i3 Processor/4GB RAM/256GB SSD/Windows/Intel UHD Graphics English/Arabic Abyss Blue ",
+    "price": 13008
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IdeaPad 5 15ITL05 Laptop with 15.6 inch Core i7-1165G7 8 GB ram 512 GB SSD 4 GB Intel Xe Graphics English/Arabic Platinum Grey ",
+    "price": 23539
+  },
+  {
+    "brand": "HP",
+    "name": "HP Pavilion 15s-eq1002ne - AMD Ryzen 3-3250U dual - 4 GB - 256 GB SSD - AMD Radeon Integrated Graphics -15.6\" HD - Win11- Natural silver English/Arabic silver ",
+    "price": 12359
+  },
+  {
+    "brand": "DELL",
+    "name": "G15 5520 Gamingn Laptop With 15.6-Inch FHD Display, Core i7-12700H Processor/16GB RAM/512GB SSD/DOS/ 4GB NVIDIA GeForce RTX 3050 Graphic Card English/Arabic Dark Shadow Grey ",
+    "price": 35999
+  },
+  {
+    "brand": "ASUS",
+    "name": "Asus X409FA-BV003T - Intel Core i3-10110U - 4GB - 1TB - Intel HD Graphics - 14\"FHD - Win10 English/Arabic Silver ",
+    "price": 9831
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo Legion 5 15ARH7H 15.6\"/AMD Ryzen7/6800H/16G/1TBSSD/RTX3060/Storm Gray/Win 11 English Storm Gray ",
+    "price": 43999
+  },
+  {
+    "brand": "ASUS",
+    "name": "Vivobook Pro 16X OLED M7600QC-OLED007W Laptop With 16 inch Ryzen 7 5800H Ram 16 GB /1TB SSD/ 4 GB NVIDIA GeForce RTX 3050 Windows 11 English/Arabic Black ",
+    "price": 43000
+  },
+  {
+    "brand": "MSI",
+    "name": "Katana GF66 12UG Laptop With 15.6 Inch Core i7-12700H Ram 16 GB 1 Terabyte SSD 8 GB Nvidia GeForce RTX 3070 English/Arabic Black ",
+    "price": 62499
+  },
+  {
+    "brand": "Apple",
+    "name": "MacBook Air 13.6-Inch Display,Apple M2 Chip with 8-Core CPU And 10-Core GPU, 512GB SSD English/Arabic Starlight ",
+    "price": 60999
+  },
+  {
+    "brand": "DELL",
+    "name": "Vostro 3510 Laptop With 15.6-Inch FHD (1920x1080) Anti-Glare LED Display, Core i7 Processor/8GB RAM/512 GB M.2 SSD/DOS(Without Windows)/Intel Iris Xe Graphics English/Arabic Carbon Black ",
+    "price": 25299
+  },
+  {
+    "brand": "ASUS",
+    "name": "Zenbook 13 OLED UX325EA-OLED0W1W Slim Laptop With 13.3-Inch Display, Core i7 1165G7 Processer/16GB RAM/1TB SSD/Intel Iris Plus Graphics/Windows 11 Home English/Arabic SILVER ",
+    "price": 39999
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IdeaPad Gaming 3 15IHU6 Laptop With 15.6-inch Display / Intel Core i7-11370H Processor /16GB RAM / 512GB SSD / Nvidia GeForce RTX 3050 4GB Series / DOS / English/Arabic Shadow Black ",
+    "price": 33499
+  },
+  {
+    "brand": "HP",
+    "name": "15-dw3377ne Laptop With 15.6-Inch Display, Core i5-1135G7 Processor/8GB RAM/512GB SSD/2GB NVIDIA GeForce MX450 Graphics Card/Free DOS Arabic Jet Black ",
+    "price": 20999
+  },
+  {
+    "brand": "ASUS",
+    "name": "Asus X415Ep-Fp007W Laptop, Intel Core I7-1165G7, 15.6 Inch, 512Gb Ssd, 8Gb Ram, Nvidia Geforce Mx330 2Gb Graphics, Windows 11 – Clear English/Arabic Silver ",
+    "price": 21999
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo V15-ADA 82C7007YED Laptop -  AMD 3020e, 4 GB RAM, 1TB HDD, Integrated AMD Radeon Graphics,  15.6\" HD (1366x768) TN 220nits Anti-glare,  Dos Iron Grey ",
+    "price": 8800
+  },
+  {
+    "brand": "ASUS",
+    "name": "D6500QH-OLED005W Laptop With 15.6 Inch Processor Ryzen 5 5600H 8 Gigabyte Ram 512 Gigabyte SSD 4 Gigabyte Nvidia GeForce GTX Series English/Arabic Quiet Blue ",
+    "price": 32999
+  },
+  {
+    "brand": "ASUS",
+    "name": "VivoBook Laptop with 11.6-Inch HD Display, Celeron N3350 Processor/4GB RAM/500 GB HDD / WIN10 STAR Grey ",
+    "price": 7899
+  },
+  {
+    "brand": "Acer",
+    "name": "Aspire 3 A315-56-356N (NX.HS5EM.00J) Laptop With 15.6 Inch HD (1366 x 768) LED Display, Intel Core i3-1005G1 (2 Core, 1.20 GHz Upto 3.40 GHz) 10th Gen Processor/4GB RAM/1TB HDD/Intel UHD Graphics/DOS (Without Windows) English/Arabic Shale Black ",
+    "price": 9699
+  },
+  {
+    "brand": "DELL",
+    "name": "Vostro 3520 Professional And Personnel Laptop With 15.6 -Inch FHD Display/Intel Core i7-1255U Processor/16GB RAM/512GB SSD/2GB NVIDIA GeForce MX550 Graphics Card/Windows 11 English/Arabic Titan Grey ",
+    "price": 28999
+  },
+  {
+    "brand": "ITEL",
+    "name": "Itel Spirit 2 - Intel® Core™i5-1155G7- 8GB - 512GB SSD - Intel HD Graphics - 15.6\"FHD - Win11 - Grey ",
+    "price": 12419
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo Ideapad 1 Laptop, Intel Celeron N4020, 15.6 Inch FHD, 256GB SSD, 8GB RAM, Intel HD Graphics, Windows 11 - English/Arabic Blue ",
+    "price": 9799
+  },
+  {
+    "brand": "HP",
+    "name": "15s-fq2012ne Laptop With 15.6-inch Display Core i3-1115G4 Processor 4GB RAM 256GB SSD Windows 11 Intel UHD Graphics English/Arabic Black ",
+    "price": 10990
+  },
+  {
+    "brand": "ASUS",
+    "name": "ASUS ROG STRIX SCAR 18 (2023) Gaming Laptop | 18 Inch Nebula Display QHD+ 240Hz/3ms | Intel Core I9-13980HX | GeForce RTX 4080 12GB | 32GB DDR5 RAM | 1TB PCIe SSD | Windows 11 | G834DZ-N6022W | Free R English/Arabic Black ",
+    "price": 140999
+  },
+  {
+    "brand": "ASUS",
+    "name": "Asus Rog Strix Scar G533Qs -Hf017T Gaming Laptop With 15.6-Inch Full Hd Display, Amd R9-5900Hx Processer/32Gb Ram/1Tb Ssd/16Gb Nvidia Geforce Rtx 3080 Graphics/Windows 10 English Black English/Arabic Black ",
+    "price": 98555
+  },
+  {
+    "brand": "Acer",
+    "name": "Aspire 3 A315-58G-5657 Laptop With 15.6 Inch Display Core I5 Processor 8 Gb Ram 256 Gb Ssd 2 Gb Nvidia Geforce Mx Series English/Arabic Silver ",
+    "price": 16999
+  },
+  {
+    "brand": "HP",
+    "name": "HP 255 G8 Laptop - Ryzen 5 3500U, 4 GB RAM, 1 TB HDD, AMD Radeon Graphics, 15.6-Inch HD, DOS English Black ",
+    "price": 15900
+  },
+  {
+    "brand": "HP",
+    "name": "HP FQ5044NE i5-1235U-8-512-W11 Laptop with 15.6 inch Core i5 8 Gb ram 512 Gb SSD Intel Xe Graphics English/Arabic Natural Silver ",
+    "price": 20496
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo IdeaPad 1 Laptop, Intel Core i7-1255U, 15.6 Inch FHD, 512GB SSD, 8GB RAM, Intel Iris XE Graphics, Windows 11 - English/Arabic Blue ",
+    "price": 25599
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo Ideapad 1 Laptop, Intel Core i5-1235U, 15.6 Inch FHD, 512GB SSD, 8GB RAM, Intel Iris XE Graphics, Windows 11 - English/Arabic Gray ",
+    "price": 20699
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo Ideapad 1 Laptop, Intel Core i5-11320H, 15.6 Inch FHD, 512GB SSD, 8GB RAM, Nvidia GTX1650 4GB, Windows 11 - English/Arabic Black ",
+    "price": 27799
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo IdeaPad 1 Laptop, Intel Core i3-1215U, 15.6 Inch FHD, 256GB SSD, 4GB RAM, Intel UHD Graphics, Windows 11 - English/Arabic Gray ",
+    "price": 15199
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo IdeaPad 5 Laptop, Intel Core I7-1165G7, 15.6 Inch FHD, 512GB SSD, 16GB RAM, NVIDIA MX450 2GB, Free Dos - English/Arabic Gray ",
+    "price": 26799
+  },
+  {
+    "brand": "HP",
+    "name": "HP 15-DK2128NE Laptop, Intel Core i5-11300H, 15.6 Inch FHD, 1TB HDD and 256GB SSD, 8GB RAM, Nvidia GTX1650 4GB, Windows 11 - English/Arabic Black ",
+    "price": 29999
+  },
+  {
+    "brand": "Lenovo",
+    "name": "ThinkPad E15 Gen 4 Laptop With 15.6-Inch FHD Display, Core i7 Processor/8GB RAM/512GB SSD/DOS/2GB NVIDIA GeForce MX550/Fingerprint Reader English/Arabic Black ",
+    "price": 42000
+  },
+  {
+    "brand": "MSI",
+    "name": "Modern 14 B11M Laptop With 14-Inch Display, Core I7 -1195G7/8Gb Ram/512Gb Ssd/Intel Iris Xe Graphics/Windows 11/ Home English Carbon Gray ",
+    "price": 24499
+  },
+  {
+    "brand": "HP",
+    "name": "HP 255 G7 Laptop – With 15.6-Inch HD Display / AMD Ryzen 3 3200U / 4GB RAM / 1TB HDD / AMD Radeon Vega 3 Graphics / DOS / English/Arabic Silver ",
+    "price": 13161
+  },
+  {
+    "brand": "HP",
+    "name": "ProBook 450 G3 With 15.6-Inch Display, Core i5 Processor/16GB RAM/500GB HDD/Intel HD Graphics Silver ",
+    "price": 11500
+  },
+  {
+    "brand": "HP",
+    "name": "EliteBook 850 G5 Business Laptop With 15.6-Inch Full HD/i5 Processor/8GB RAM/256GB SSD ",
+    "price": 16750
+  },
+  {
+    "brand": "HP",
+    "name": "Probook 650G2 With 15.6-Inch Display, Intel Core i5/4GB RAM/400GB HDD/Intel Integrated Graphics Black ",
+    "price": 9850
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IdeaPad 3 Laptop With 15.6-Inch HD Display, Intel Core i3-10110U Processor/ 4GB DDR4 RAM / 1TB HDD/ NVIDIA GeForce MX130 2GB Graphics Card/ DOS English/Arabic Platinum Grey ",
+    "price": 12990
+  },
+  {
+    "brand": "ASUS",
+    "name": "Vivobook-S433EQ-AM07GW  Inch 14 Core I7 1165G7 8Gb Ram 512Gb Ssd-2GB Nvidia Geforce Mx350 Gaia Green English/Arabic Gaia Green ",
+    "price": 26999
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IdeaPad Gaming 3 Laptop With 16-inch Display Core i7-12650H Processor 16GB RAM 512 gigabyte Nvidia GeForce RTX 3050TI Graphics English/Arabic Onyx Grey ",
+    "price": 42000
+  },
+  {
+    "brand": "HUAWEI",
+    "name": "MateBook D15 With 15.6-Inch Display, Core i3 1115G4 Processor/8GB RAM/256GB SSD/8GB Intel Iris XE Graphics/Windows 11 English/Arabic Mystic Sliver ",
+    "price": 18629
+  },
+  {
+    "brand": "MSI",
+    "name": "Gf63 Thin 10Ud Laptop With 15.6-Inch Display Core I7-10750H Processor 16Gb Ram 1Tb + 256Gb - Nvidia Geforce Rtx Series 3050 Ti 4Gb Windows 10 English/Arabic Black ",
+    "price": 36999
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IdeaPad 3 14ITL05 With 14-Inch FHD (1920x1080), Intel Core i3-1115G4 (2C / 4T, 3.0 / 4.1GHz, 6MB), 4GB RAM, 256GB SSD, Intel UHD Graphics, Windows 10 English/Arabic Platinum Grey ",
+    "price": 13085
+  },
+  {
+    "brand": "DELL",
+    "name": "Vostro 3515 Laptop With 15.6 Inch Ryzen 3 3250U 4GB 128GB SSD  Ubuntu English/Arabic Black ",
+    "price": 12000
+  },
+  {
+    "brand": "HP",
+    "name": "Hp Pavek0010 I7-1255U-8-512-W1 Laptop With 14 Inch Core I7 8 Gb Ram 512 Gb Ssd Intel Xe Graphics English/Arabic Natural Silver ",
+    "price": 31499
+  },
+  {
+    "brand": "ASUS",
+    "name": "TUF Gaming F15 FX506HF-HN014W Gaming Laptop With 15.6-Inch FHD Display, Core i5-11400H Processor / 8GB RAM / 512GB SSD / 4GB NVIDIA GeForce RTX 2050 Graphics / Win 11 Home / English/Arabic Graphite Black ",
+    "price": 26999
+  },
+  {
+    "brand": "ASUS",
+    "name": "Vivob I3-1115G4-4-256-W11 Laptop With 14 Inch Core I3-1115G4 4 Gb 256 Gb Ssd Intel Uhd Graphics Windows 11 English/Arabic Black ",
+    "price": 15599
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Gaming 3 15IHU6 Laptop With 15.6 inch Display Core i7-11370H Processor 16 gigabyte Ram 512 gigabyte SSD Nvidia GeForce RTX Series With Iconz Silent Pro Wireless Mouse English/Arabic Shadow Black ",
+    "price": 39999
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IdeaPad Gaming 3 15IHU6 Laptop With 15.6-Inch Display, Core i7-11370H Processor / 16GB RAM / 512GB SSD / 4GB NVIDIA GeForce RTX 3050 Ti / Windows 10 Home / English/Arabic Shadow Black ",
+    "price": 45999
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IP5i5-1135G7-8-512-2-W11 laptop with 15.6 inch Core i5 8 GB 512 GB SSD 2 GB Nvidia GeForce MX450 English/Arabic Graphite Grey ",
+    "price": 19399
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IdeaPad 3 15ITL6 Laptop With 15.6-Inch FHD (1920x1080) Display, Core i3 Processor/4GB RAM/1TB HDD/DOS(Without Windows)/Intel UHD Graphic Card English/Arabic Abyss Blue ",
+    "price": 13912
+  },
+  {
+    "brand": "Apple",
+    "name": "MacBook Pro 13-Inch M2 Chip With 8-Core CPU And 10-Core GPU, 256GB SSD/Integrated Graphics/Middle East Version English/Arabic Silver ",
+    "price": 62999
+  },
+  {
+    "brand": "HP",
+    "name": "Pavilion 15-dk2087ne Gaming Laptop With 15.6-Inch Display, Core i5-11300H Processer/8GB RAM/1TB HDD + 256GB SSD/4GB Nvidia Geforce GTX1650 Graphics Card English/Arabic Black ",
+    "price": 27399
+  },
+  {
+    "brand": "ASUS",
+    "name": "Vivobook 13 Slate OLED T3300KA-OLED001W Intel Pentium N6000,8GB Ram,256GB SSD,Intel UHD,13.3 Inch FHD,Win11 English/Arabic Black ",
+    "price": 20199
+  },
+  {
+    "brand": "HP",
+    "name": "Victus 15-fa0031dx Gaming Laptop With 15.6-Inch Full HD Display, Core i5-12450H Processer/8GB RAM/512GB SSD/4GB NVIDIA GeForce GTX 1650 Graphics Card/Windows 11 Home English Black ",
+    "price": 29872
+  },
+  {
+    "brand": "ASUS",
+    "name": "TUF Gaming F15 FX506LHB-HN323W Laptop With 15.6-Inch FHD Display, Core i5-10300H Processor / 8GB RAM / 512GB SSD / 4GB NVIDIA GeForce GTX 1650 Graphics / HD Webcam / Win11 / RGB-Backlit / English/Arabic Bonfire Black ",
+    "price": 29400
+  },
+  {
+    "brand": "ASUS",
+    "name": "TUF Gaming F15 FX506HC-HN002W Laptop 15.6-Inch FHD Display, 8GB RAM/512GB ROM/PCIE G3 SSD/NV RTX3050/WIN11 Home/International Version English/Arabic English/Arabic Eclipse Gray ",
+    "price": 32000
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Legion 5 15ACH6H Gaming Laptop With 15.6-Inch Display, AMD Ryzen 5 5600H Processor/8GB RAM/512GB SSD/4GB NVIDIA GeForce RTX 3050Ti Graphics Card/Windows 11 Home English Phantom Blue ",
+    "price": 29349
+  },
+  {
+    "brand": "HP",
+    "name": "15s-eq1001ne Laptop 15.6 Inch HD Display AMD Ryzen 3 3250U/4GB RAM/256GB SSD/AMD VGA R3/Windows 11 English/Arabic Jet Black ",
+    "price": 12359
+  },
+  {
+    "brand": "DELL",
+    "name": "Vostro 3510 Laptop With 15.6-inch Display Core i3-1115G4 Processor 8GB Ram 256 GB SSD NVIDIA GeForce MX 350 2 GB English/Arabic Carbon Black ",
+    "price": 14799
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Ideapad 3 15ITL6 Laptop With 15.6 Inch Core i5-1135G7 8 GB 1 TB HDD 2GB Nvidia GeForce MX 350 dos grey English/Arabic sand ",
+    "price": 19799
+  },
+  {
+    "brand": "Apple",
+    "name": "MacBook Pro 13-Inch Display, Apple M2 Chip With 8-Core CPU And 10-Core GPU, 512GB SSD/Integrated Graphics/International Version English Space Grey ",
+    "price": 66750
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Legion 5 Pro 16ITH6H Laptop With 16-inch Display Intel Core i7-11800H Processor 16GB Ram 1TB SSD Nvidia GeForce RTX 3060 6GB Series DOS English/Arabic Stingray ",
+    "price": 50999
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IdeaPad 3 15ITL6 Laptop With 15.6-Inch FHD Display, Core i3 Processor/4GB RAM/1TB HDD/DOS (Without Windows)/Intel UHD Graphics Card English/Arabic Sand ",
+    "price": 15999
+  },
+  {
+    "brand": "HP",
+    "name": "HP EQ1002 R3-3250U-4-256-W10 Laptop with 15.6 inch Ryzen 3 4 Gb ram 256 Gb SSD English/Arabic Jet Black ",
+    "price": 13499
+  },
+  {
+    "brand": "ASUS",
+    "name": "VivoB i7-1165G7-8-512-W11 laptop with 14 inch Core i7 8 GB 512 GB SSD 4 GB Intel UHD Graphics English/Arabic Black ",
+    "price": 23299
+  },
+  {
+    "brand": "Microsoft",
+    "name": "Surface Laptop Go 12.4 Inch HD 10th Gen Intel Core i5 1035G1 16GB Ram 256GB SSD UHD Graphics DOS English Platinum ",
+    "price": 22999
+  },
+  {
+    "brand": "Apple",
+    "name": "MacBook Air 13\" Display, Apple M1 Chip With 8-Core Processor and 7-Core Graphics / 8GB Unified Memory / 256GB SSD / Integrated Graphics / mac OS / English Gold ",
+    "price": 42999
+  },
+  {
+    "brand": "DELL",
+    "name": "Vostro 3510 Laptop With 15.6-Inch FHD (1920 x 1080) Anti-Glare LED Display,Intel Core i3-1115G4 (1.7 GHz up to 4.1 GHz) 11th Gen Processor/4GB RAM/256GB Internal Memory/Intel UHD Graphics/DOS(Without Windows) English/Arabic Carbon Black ",
+    "price": 12999
+  },
+  {
+    "brand": "ASUS",
+    "name": "GU603ZW Rog Zephyrus M16 Laptop With 16.0-Inch Display, Core i9-12900H Processor/16GB RAM/1TB SSD/8GB Nvidia Geforce RTX 3070Ti Graphics Card/Windows 11 Home English Black ",
+    "price": 83999
+  },
+  {
+    "brand": "ITEL",
+    "name": "Itel Spirit 2 - Intel® Core™ i3 -1115G4 - 4GB - 256GB SSD - Intel HD Graphics - 15.6\"FHD - Grey ",
+    "price": 8279
+  },
+  {
+    "brand": "Apple",
+    "name": "MacBook Pro 13-Inch Display With Apple M2 Chip 8-Core CPU And 10-Core GPU/256GB SSD/Integrated Graphics/International Version English Space Grey ",
+    "price": 55850
+  },
+  {
+    "brand": "DELL",
+    "name": "G15 5511 Gaming Laptop With 15.6-Inch FHD Display, Core i5 Processor/8GB RAM/512GB SSD/DOS(Without Windows)/4GB VGA NVIDIA GeForce RTX 3050 Graphic Card English/Arabic Dark Shadow Grey ",
+    "price": 35999
+  },
+  {
+    "brand": "Apple",
+    "name": "Macbook Air MGN63 13\" Display, Apple M1 Chip With 8-Core Processor and 7-Core Graphics / 8GB RAM / 256GB SSD / Integrated Graphics / mac OS / English Grey ",
+    "price": 38950
+  },
+  {
+    "brand": "DELL",
+    "name": "G15 5520 Gaming Laptop With 15.6-Inch Display, Core i7 12700H Processor/16GB RAM/512GB SSD/6GB Nvidia Geforce RTX 3060 Graphics Card/Windows 11 Home English/Arabic Black ",
+    "price": 41999
+  },
+  {
+    "brand": "ASUS",
+    "name": "Asus Tuf Gaming F15\" Intel Ci7/12700H/16Gb/1Tb/Rtx3070 Win11 English/Arabic Mecha Gray ",
+    "price": 55555
+  },
+  {
+    "brand": "ASUS",
+    "name": "ROG Strix G15 Gaming Laptop With 15.6-Inch WQHD Display, Ryzen 7-6800H Processor / 16GB RAM / 1TB SSD / 6GB NVIDIA GeForce RTX 3060 Graphics / Win 11 Home / English/Arabic Eclipse Gray ",
+    "price": 55999
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IdeaPad 5 15ITL05 Laptops With 15.6-Inch Display Intel Core i7 Processor/512GB SSD/8GB RAM/NVIDIA GeForce MX Series Graphics English/Arabic Grey ",
+    "price": 25499
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Ideapad-3 15ADA05 With 15.6-Inch HD Display AMD Athlon 3020E 4Gb Ram 1Tb Hdd Amd Radeon Graphics  Win 10 English/Arabic Platinum Grey ",
+    "price": 11574
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Legion 7 Gaming Laptop With 16-Inch Anti-Glare Display, Core i7-11800H Processor/16GB RAM/1TB SSD/Windows 11 Home/8GB NVIDIA GeForce RTX 3070 English/Arabic Storm Grey ",
+    "price": 64500
+  },
+  {
+    "brand": "HP",
+    "name": "15s-eq2009ne Laptop With 15.6-inch Display Ryzen 7 5700U Processor 8gb Ram 512gb  AMD Radeon Graphics English/Arabic Jet Black ",
+    "price": 18999
+  },
+  {
+    "brand": "DELL",
+    "name": "Vostro 3510 15.6 Inch Full HD Core i5-1135G7 16 GB RAM 1TB HDD+256 SSD 2 Nvidia GeForce Mx Series 350 Ddr5 Graphics Graphic Card-Ubuntu English/Arabic Carbon Black ",
+    "price": 24200
+  },
+  {
+    "brand": "ASUS",
+    "name": "X1603QA-MB283W Laptop With 16-Inch WUXGA Display, AMD Ryzen 7-5800H Processor / 8GB RAM / 1TB SSD / Win 11 / English/Arabic Transparent Silver ",
+    "price": 22999
+  },
+  {
+    "brand": "MSI",
+    "name": "Katana Gf66 11Ue Laptop With 15.6-Inch Display Core I7-11800H Processor 16Gb Ram 1Tb - Nvidia Geforce Rtx 3060 - 6Gb Windows 10 English/Arabic Black ",
+    "price": 42999
+  },
+  {
+    "brand": "DELL",
+    "name": "Dell Vostro 3510 Laptop 15.6 HDD Intel Core i3 1115G4 4GB RAM 1TB HHD UHD Graphics DOS English/Arabic Black ",
+    "price": 14777
+  },
+  {
+    "brand": "HP",
+    "name": "HP Pavek0012 i3-1215U-8-256-W1 Laptop with 14 inch Core i3 8 Gb ram 256 Gb SSD Intel UHD Graphics English/Arabic Natural Silver ",
+    "price": 19499
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo IdeaPad Gaming 3 15ACH6 AMD Ryzen 7 5800H 512GB SSD 16GB Ram Nvidia GeForce RTX 3060 6GB 15.6\" Inch FHD Win.11 English Shadow Black ",
+    "price": 41000
+  },
+  {
+    "brand": "DELL",
+    "name": "Dell special edition G15 5511 Gaming Laptop/ 15.6 Inch Display FHD/ Intel Core I7- 11800H/ 16GB Ram/ 1TB SSD/ 6GB Nvidia Geforce RTX 3060/ Ubuntu /International Version English/Arabic Black ",
+    "price": 49999
+  },
+  {
+    "brand": "Apple",
+    "name": "MacBook Air 13.6-Inch Display, Apple M2 chip with 8-Core CPU And 8-Core GPU, 256GB SSD English/Arabic Midnight ",
+    "price": 58800
+  },
+  {
+    "brand": "MSI",
+    "name": "GF63 Thin 11SC Laptop With 15.6 Inch Core i5-11400 Ram 8 GB 1.256 Terabyte SSD 4 GB  Nvidia GeForce GTX 1650 English/Arabic Black ",
+    "price": 29999
+  },
+  {
+    "brand": "ASUS",
+    "name": "Zenbook 14 OLED  Slim Laptop With 14-Inch 2.8K OLED Display,Intel Core i5-1240P Processor/8GB RAM/512GB SSD/Intel Iris Xe Graphics/Windows 11 Home English/Arabic Ponder Blue ",
+    "price": 45999
+  },
+  {
+    "brand": "HP",
+    "name": "250 G8 Notebook 15.6 Inch Fhd Intel Core I3 1005G1 4Gb Ram 1 Tb Hhd Intel Uhd Graphics Dos With Hp 15.6 Inch /International Version English Black ",
+    "price": 11800
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Ideapad 5 Laptop With 14-Inch FHD Display, Core i5-1135G7 Processor/ 8GB RAM / 256GB SSD / Intel Iris Xe Graphics / Windows 10 Home / English Arabic Keyboard / English/Arabic Platinum Grey ",
+    "price": 19800
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IP 3 15IML05 Laptop With 15.6 inch Display Core i3-10110U Processor 4 gigabyte Ram 1 Terabyte HDD Integrated Graphics With Iconz Silent Pro Wireless Mouse English/Arabic Platinum Grey ",
+    "price": 15999
+  },
+  {
+    "brand": "HP",
+    "name": "Victus 16-D1002ne Laptop With 16.1 Inch Display Intel Core i7-12700H Processor 1TB SSD 16GB Ram 4GB Nivdia RTX3050 Graphics English/Arabic Black ",
+    "price": 38099
+  },
+  {
+    "brand": "DELL",
+    "name": "Inspiron G15 5515 Laptop With 15.6-Inch FHD Display, Ryzen 7 5800H Processor / 16GB RAM / 512GB SSD / 4GB NVIDIA GeForce RTX 3050 Ti Graphics / Win 11H /International Version English/Arabic Grey ",
+    "price": 36900
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Idea Pad 3 15ITL6 Laptop With 15.6-Inch Display, Core i5 1135G7Processer/8GB RAM/1 TB HDD/2GB Nvidia Mx 350 Graphic Card/DOS (Without Windows)/ English Abyss Blue ",
+    "price": 19500
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Ideapad 3 15Ada05 Laptop With 15.6-Inch Display Amd 3020E - 4Gb Ram - 1Tb Hdd English Blue ",
+    "price": 12316
+  },
+  {
+    "brand": "HP",
+    "name": "Hp Victus 15-Fa0004Ne Gaming Laptop, Intel Core I5-12500H, 15.6 Inch Fhd 144Hz, 512Gb Ssd, 8Gb Ram, Nvidia Rtx 3050 4Gb, Freedos - English/Arabic Mica Silver ",
+    "price": 31599
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IdeaPad 3 15ITL6 Laptop With 15.6-Inch FHD Display, Core i3 Processor/4GB RAM/1TB HDD/DOS (Without Windows)/Intel UHD Graphics Card English/Arabic Arctic Grey ",
+    "price": 12900
+  },
+  {
+    "brand": "DELL",
+    "name": "Vostro 15 3510 Laptop -with  15.6 Inch FHD -  11th Intel Core I5-1135G7 - 8GB RAM - 1TB HDD -2GB  MX350 GPU -Ubuntu /International Version English/Arabic Black ",
+    "price": 23100
+  },
+  {
+    "brand": "Apple",
+    "name": "13-Inch Macbook Pro M2 Chip With 8 Core Cpu And 10-Core Gpu  256Gb Ssd English Silver ",
+    "price": 54999
+  },
+  {
+    "brand": "DELL",
+    "name": "G15 5511 Gaming Laptop 11th Intel Core i7-11800H 8-Cores, 16GB RAM, 512GB SSD, NVIDIA Geforce RTX3050 4GB GDDR6 Graphics, 15.6\" FHD 120 Hz, Orange Backlit Keyboard UB English/Arabic Shadow Grey ",
+    "price": 47020
+  },
+  {
+    "brand": "ASUS",
+    "name": "X515 Laptop With 15.6-Inch FHD LED Display, Core i7 Processor/8GB RAM/512GB SSD/Windows 11/2GB NVIDIA GeForce MX330 Graphic Card English/Arabic Transparent Silver ",
+    "price": 25900
+  },
+  {
+    "brand": "ASUS",
+    "name": "TUF Dash 15 Laptops With 15.6 inch Display Intel Core i7 512 GB SSD 16 gigabyte Ram 6GB Nvidia GeForce RTX 3060 Graphics English Black ",
+    "price": 49850
+  },
+  {
+    "brand": "HP",
+    "name": "15-Dw3061Ne Laptop With 15.6 Inch Display Core I3 Processor 4 Gb Ram 256 Gb Ssd Intel Uhd Graphics English Silver ",
+    "price": 12999
+  },
+  {
+    "brand": "MSI",
+    "name": "Gf63 Thin 10Sc Laptop With 15.6-Inch Display, Core I7 Processor/16Gb Ram/1Tb Hdd + 256Gb Ssd Hybrid Drive/4Gb Nvidia Geforce Gtx 1650 Graphics Card Black ",
+    "price": 32399
+  },
+  {
+    "brand": "ITEL",
+    "name": "Itel Able 2 - Intel Celeron N5100 - 4GB - 256GB SSD - Intel HD Graphics - 14\" HD - Gray ",
+    "price": 7348
+  },
+  {
+    "brand": "Acer",
+    "name": "Aspire 3 A315-58G-74JC Laptop With 15.6 inch FHD (1920x1080) Display/Intel Core i7-1165G7/8GB RAM/1TB HDD/Nvidia GeForce MX350/DOS(Without Windows) English/Arabic Pure Silver ",
+    "price": 20699
+  },
+  {
+    "brand": "ASUS",
+    "name": "TUF Dash F15 FX517ZC-HN085W Gaming Laptop With 15.6-Inch Display, Core i5 12450H Processer/8GB RAM/512GB SSD/4GB Nvidia Geforce RTX 3050 Graphics Card/Windows 11 Home English/Arabic Black ",
+    "price": 43257
+  },
+  {
+    "brand": "Acer",
+    "name": "A3 - A315-56-35Tf Laptop With 15.6-Inch Display Core I3 1005G1 Processor 4Gb Ram 1Tb Hdd Intel Uhd Graphics Dos English/Arabic Shale Black ",
+    "price": 9999
+  },
+  {
+    "brand": "HP",
+    "name": "Victus 15-Fa0040Ne Laptop With 16-Inch Display Core I7-12700H Processor 16Gb Ram 512Gb  Nvidia Geforce Rtx3050 Graphics English/Arabic Mica Silver ",
+    "price": 38899
+  },
+  {
+    "brand": "Acer",
+    "name": "Nitro 5 Laptop With 15.6-inch Display Core i7-11800H Processor 24gb Ram 1024tb Nvidia GeForce RTX 3060 Graphics English/Arabic Black ",
+    "price": 37599
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo Ideapad Flex 5 14Iau7, 2-In-1 Laptop, Intel Core I7-1255U, 8Gb Ram, 512Gb Ssd, 14-Inch Touchscreen, Windows 11 - English Storm Gray ",
+    "price": 33799
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo IdeaPad 3 15ITL6 Laptop - 11th Intel Core i7-1165G7, 8GB RAM , 512GB SSD, NVIDIA GeForce MX450 2GB GDDR5 Graphics, 15.6\" FHD (1920x1080) ,Dos - English/Arabic Abssy Blue English/Arabic Blue ",
+    "price": 26249
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Ideapad Gaming 3 15ACH6 Laptop With 15.6-Inch Display, AMD Ryzen 7 5800H Processer/16GB RAM/512GB SSD/6GB NVIDIA Geforce RTX 3060 Graphics Card English/Arabic SHADOW BLACK ",
+    "price": 33999
+  },
+  {
+    "brand": "MSI",
+    "name": "GF63 Thin 11SC Laptop With 15.6 Inch Core i7 11800H Ram8 GB 1.256 Terabyte SSD 4 GB  Nvidia GeForce GTX 1650 English/Arabic Black ",
+    "price": 31999
+  },
+  {
+    "brand": "DELL",
+    "name": "Vostro 3510 laptop 15.6 Inch Full HD Intel core i7-1165G7 16GB RAM 1TB+256GB SSD 2GB Nvidia GeForce MX350/DOS (Without Windows) /International Version English/Arabic Grey ",
+    "price": 29900
+  },
+  {
+    "brand": "Acer",
+    "name": "Aspire 3 Laptop With 15.6-inch Display Core i3-1115G4 Processor 4gb Ram 1tb Intel UHD Graphics English/Arabic Silver ",
+    "price": 10999
+  },
+  {
+    "brand": "ASUS",
+    "name": "X1502ZA-EJ005W Laptop With 15.6 Inch Processor Core i5-1235U 8GB RAM/ 512GB SSD/ Intel HD Graphics Windows 11 English/Arabic Quiet Blue ",
+    "price": 21799
+  },
+  {
+    "brand": "ASUS",
+    "name": "UX425EA-KI007W Laptop With 14 Inch ASUS Core i7 Processor 16 gb Ram 1  tb SSD Intel Iris Xe Graphics English/Arabic Pine Grey ",
+    "price": 28499
+  },
+  {
+    "brand": "DELL",
+    "name": "VOSTRO 3510 15.6 Inch Full HD Core i7-1165G7 16 GB RAM 1TB HDD+256 GB SSD 2 Nvidia GeForce MX 350 Graphic Card-Ubuntu /International Version English/Arabic Black ",
+    "price": 29000
+  },
+  {
+    "brand": "DELL",
+    "name": "Laptop Vostro 3500 with 15.6 Inch Full HD Display/ Intel Core i7-1165G7 11th Generation/ 8GB RAM DDR4 1TB HDD/2GB Nvidia GeForce MX 330 Graphics/DOS (Without Windows) /International Version English Black ",
+    "price": 28500
+  },
+  {
+    "brand": "DELL",
+    "name": "Vostro 3510 Laptop With 15.6-Inch FHD Anti-Glare LED Display, Core i5 Processor/8GB RAM/512GB M.2 SSD/DOS(Without Windows)/2GB NVIDIA GeForce MX350 Graphic Card /International Version English/Arabic Carbon Black ",
+    "price": 23300
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IdeaPad Gaming 3 With 15.6-Inch Display Core i7-11370H Processor / 16GB Ram /1TB HDD + 256GB SSD /NVIDIA GeForce RTX 3050 4GB English/Arabic Black ",
+    "price": 34549
+  },
+  {
+    "brand": "ASUS",
+    "name": "ROG Flow X13 13.4 inch Full HD AMD Ryzen 9 5900HS 16GB RAM/512GB SSD/4GB NVIDIA GeForce RTX Series 3050 Ti Graphic Card - Windows English/Arabic Black ",
+    "price": 68292
+  },
+  {
+    "brand": "MSI",
+    "name": "GF63 Thin 11UC Laptop With 15.6 Inch Core i5 11400 Ram 8 GB 1.256 Terabyte SSD 4 GB Nvidia GeForce RTX 3050 English/Arabic Black ",
+    "price": 32499
+  },
+  {
+    "brand": "DELL",
+    "name": "Inspiron 14 5410 Convertible Laptop With 14 Inch FHD Touchscreen Display, 11th Gen Intel Core i3-1125G4/ 256GB SSD/ 4 GB RAM/ Intel UHD Graphics/ Win 10 Home/ Eng Ar KB English/Arabic Silver ",
+    "price": 28490
+  },
+  {
+    "brand": "ASUS",
+    "name": "X415Ea-Eb005W Laptop With 14 Inch Display Core I5 Processor 8 Gb Ram 512 Gb Ssd Intel Uhd Graphics English Silver ",
+    "price": 16999
+  },
+  {
+    "brand": "MSI",
+    "name": "Laptop GF63 THIN 10UC(I5(10500H)-8G-1000+256SSD-4G RTX3050) English/Arabic Black ",
+    "price": 39999
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Idea Pad 3 15ITL6 15.6 Inch FHD Display Intel Core I7-1165G7 8GB Ram 1TB HDD 2GB Nivida Geforce MX450 Dos English/Arabic Arctic Grey English/Arabic Arctic Grey ",
+    "price": 23737
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Legion 5 Laptop With 15.6-inch Display Core i7-12700H Processor 16GB  Ram 512 GB SSD NVIDIA GeForce RTX 3050 Ti 4 GB With Legion Gaming Mouse English/Arabic Storm Grey ",
+    "price": 42849
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Legion5 15Ith6H Laptop With 15.6 Inch Fhd Display / Core I7 11800H / 16Gb Ram / 1Tb Ssd / Nvidia Geforce Rtx 3060 6Gb Graphics Card / Dos/ Phantom Blue With G203 Lightsync Gaming Mouse English/Arabic Phantom Blue ",
+    "price": 53299
+  },
+  {
+    "brand": "HP",
+    "name": "HPVictusi7-12700H-16-512-6-W11 Laptop with 16.1 inch Core i7 16 Gb ram 512 Gb SSD Nvidia GeForce RTX 3060 English/Arabic Mica Silver ",
+    "price": 47049
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IdeaPad 3 14ITL6 Laptop With 14-Inch Display, Core i3-1115G4 Processor / 4GB RAM / 256GB SSD / Integrated Intel UHD Graphics / Windows 10 Home / English/Arabic Arctic Grey ",
+    "price": 13008
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Legion 5 15IAH7 Laptop With 15.6-inch Display Core i7-12700H Processor 16gb RAM 1 Terabyte Nvidia GeForce RTX 3050Ti Graphics English/Arabic Black ",
+    "price": 43799
+  },
+  {
+    "brand": "Apple",
+    "name": "MacBook Air 13.6-Inch Display, Apple M2 chip with 8-Core CPU And 8-Core GPU, 256GB SSD English Space Grey ",
+    "price": 51950
+  },
+  {
+    "brand": "ASUS",
+    "name": "LAPTOP ASUS X515EA-BQ003W(I3(1115G)-4G-256SSD-WIN11 English/Arabic Transparent Silver ",
+    "price": 14000
+  },
+  {
+    "brand": "DELL",
+    "name": "Vostro 3510 15.6 inch Full HD 11th Gen Intel Core i7 Core i7-1165G7 16 GP Ram 1 TB HDD + 256 GB SSD (Hybrid) 2 GP Nvidia GeForce MX Series MX350 Graphic Card - Ubuntu English/Arabic Carbon Black ",
+    "price": 29900
+  },
+  {
+    "brand": "DELL",
+    "name": "Vostro 3510 laptop - 11th Gen Intel core i7-1165G7, 16GB RAM, 1TB HDD + 256GB SSD, Nvidia GeForce MX350 GDDR5 Graphics, 15.6\" FHD (1920 x 1080) Anti-glare, Ubuntu English/Arabic Black ",
+    "price": 29000
+  },
+  {
+    "brand": "HP",
+    "name": "Hp Victus 16-E1012Ne Laptop, Amd R7-6800H, 16.1 Inch Fhd 144Hz, 512Gb Ssd, 16Gb Ram, Nvidia Rtx 3050 4Gb, Freedos - English/Arabic Performance Blue ",
+    "price": 37999
+  },
+  {
+    "brand": "DELL",
+    "name": "Vostro 3510 15.6 inch Full HD /Core I3-1115G4 /4GB Ram /1TB HDD /Intel UHD Graphics integrated /Ubuntu English/Arabic Black ",
+    "price": 15208
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Ideapad 3 15Itl6 /15.6 Inch/Core I7-1165G7/8GB RAM/1TB HDD/Nvidia Geforce 2GB MX 450 DDR5 English/Arabic Sand ",
+    "price": 25899
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IdeaPad Gaming 3 Laptop With 16-inch Display Core i7-12650H Processor 16GB Ram 512 gigabyte Nvidia GeForce RTX 3050TI Graphics With Lenovo IdeaPad Gaming M100 RGB Mouse - Black English Onyx Grey ",
+    "price": 38999
+  },
+  {
+    "brand": "ASUS",
+    "name": "LAPTOP ASUS VIVOBOOK S433EQ-AM0R7W (I7(1165G-16G-512SSD-VGA 2G MX 350-WIN11) English/Arabic Resolute Red ",
+    "price": 25999
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IdeaPad Gaming 3 Laptop With 15.6-inch Display Ryzen 7 5800H Processor 8GB Ram 512 GB SSD NVIDIA GeForce RTX 3060 6 GB English/Arabic Shadow Black ",
+    "price": 33799
+  },
+  {
+    "brand": "DELL",
+    "name": "G15 5515 15.6 Inch Full HD AMD Ryzen 5 5600H/8GB RAM/512 GB SSD/4GB RTX 3050 Graphic Card/Windows English/Arabic Silver ",
+    "price": 38999
+  },
+  {
+    "brand": "Acer",
+    "name": "Aspire 3 A315 Laptop With 15.6-Inch FHD Display, Core i5 Processor/8GB RAM/1TB HDD/DOS(Without Windows)/2GB NVIDIA GeForce MX350 Graphics Card English/Arabic Pure Silver ",
+    "price": 17594
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Thinkpad E590 Laptop With 15.6-Inch Display, Intel Core i5 Processor/8GB RAM/1TB HDD/2GB AMD Radeon RX550 Graphics Card International Version Black ",
+    "price": 27808.95
+  },
+  {
+    "brand": "HP",
+    "name": "HP ENVY x360 13-bf0003ne - Intel Core I5-1230U - 8GB - 512GB SSD - Intel Iris Xᵉ Graphics - 13.3\" WUXGA - Win11 - Natural Silver English/Arabic Silver ",
+    "price": 32547
+  },
+  {
+    "brand": "Acer",
+    "name": "Aspire 3 Laptop With 15.6-inch Display Core i5-1135G7 Processor 8gb Ram 1tb Nvidia GeForce MX350 Graphics English/Arabic Silver ",
+    "price": 16999
+  },
+  {
+    "brand": "ASUS",
+    "name": "UX3402ZA-OLED007W Laptop With 14 Inch ASUS Core i7 Processor 16 gb Ram 1  tb SSD Intel Iris Xe Graphics English/Arabic Ponder Blue ",
+    "price": 42999
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Ideapad Flex 5 Laptop With 14 Inch Display Core I7 Processor 8 Gb Ram 512 Gb Ssd Intel Xe Graphics English/Arabic Ashen ",
+    "price": 34499
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Ideapad 3 -15Itl6 / 15.6-Inch Fhd /Intel Core I3-1115G4/ 4Gb Ram/ 1Tb Hdd/ Integrated Intel Uhd Graphics English/Arabic Abyss Blue ",
+    "price": 12300
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Ideapad 3 Laptop With 15.6 Inch Display Core I3 Processor 4 Gb Ram 1 Tb Hdd Intel Uhd Graphics English/Arabic Golden ",
+    "price": 12749
+  },
+  {
+    "brand": "Lenovo",
+    "name": "IP3i3-1115G4-4-256-D-BU Laptop With 15.6 inch Core i3-1115G4 4 GB 256 GB SSD Intel UHD Graphics Free Dos English/Arabic Blue ",
+    "price": 12999
+  },
+  {
+    "brand": "DELL",
+    "name": "Vostro 3510 Laptop With 15.6 FHD Display, Core i5-1035G1 Processor/4GB DDR4 RAM/1TB HDD/Free Dos English Black ",
+    "price": 21000
+  },
+  {
+    "brand": "Acer",
+    "name": "Aspire 5 A515 Notebook With 15.6-Inch FHD IPS ComfyView Display, Ryzen 5 5500U Processor / 8GB RAM / 512GB SSD / 2GB AMD Radeon RX 640 Graphics / Win 11 / Latest WiFi-6 / English/Arabic Pure Silver ",
+    "price": 17599
+  },
+  {
+    "brand": "DELL",
+    "name": "Dell Vsotro 3520 Intel Core i7-1255u, 8GB RAM, 512GB SSD, GeForce MX550 2GB, 15.6 Inch FHD - Black English/Arabic BLACK ",
+    "price": 35999
+  }
+]

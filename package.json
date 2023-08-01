@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "puppeteer": "^20.9.0",
+    "puppeteer-cluster": "^0.23.0"
+  }
+}
