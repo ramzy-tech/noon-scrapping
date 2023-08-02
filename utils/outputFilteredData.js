@@ -8,6 +8,9 @@ async function outputFilteredData(pagesData, fileName = "../data.json") {
       brand: product.brand,
       name: product.name,
       price: product.price,
+      salePrice: product.sale_price,
+      url: product.url,
+      rating: product.product_rating,
     }));
     filteredData = [...filteredData, ...pageData];
   });
